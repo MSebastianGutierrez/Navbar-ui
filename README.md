@@ -1,6 +1,6 @@
-Replica de Navbar Inspirado en Diseño UI.
-Descripción del Proyecto.
-Se utilizo la imagen de un menú para replicar en HTML y CSS. El diseño final se intento ser lo más fiel posible al original y se adapto a diferentes tamaños de pantalla, garantizando una experiencia de usuario óptima en dispositivos móviles, tabletas y escritorios.
+Replica de Navbar Inspirado en Diseño UI.<br>
+Descripción del Proyecto.<br>
+Se utilizo la imagen de un menú para replicar en HTML y CSS. El diseño final se intento ser lo más fiel posible al original y se adapto a diferentes tamaños de pantalla,<br> garantizando una experiencia de usuario óptima en dispositivos móviles, tabletas y escritorios.
 
 https://dribbble.com/shots/18482616-Navbar-UI-Figma-Auto-Layout
 
