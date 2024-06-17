@@ -1,4 +1,4 @@
-Replica de Navbar Inspirado en Diseño UI.<br>
+<h1>Replica de Navbar Inspirado en Diseño UI.</h1>
 Descripción del Proyecto.<br>
 Se utilizo la imagen de un menú para replicar en HTML y CSS. El diseño final se intento ser lo más fiel posible al original y se adapto a diferentes tamaños de pantalla,<br> garantizando una experiencia de usuario óptima en dispositivos móviles, tabletas y escritorios.
 
