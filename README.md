@@ -12,7 +12,6 @@ Fidelidad al Diseño: Se ha puesto especial énfasis en replicar fielmente el di
 Responsive Design: La página web está diseñada para ser responsive, adaptándose a diferentes tamaños de pantalla y dispositivos para garantizar una experiencia óptima en dispositivos móviles y de escritorio.<br>
 Interactividad Básica: Se han implementado efectos interactivos utilizando CSS, como transiciones, para mejorar la experiencia del usuario.
 <h1>Estructura del Proyecto</h1>
-index.html: Contiene la estructura principal de la página web.
-normalize.css: Contiene estilos que permiten la correcta visualización de la página en diferentes navegadores.
-styles.css: Contiene estilos definidos por el usuario que se aplican a la página web.
-responsive.css: Contiene estilos específicos para distintas resoluciones, haciendo la página adaptable a dispositivos móviles, tablets y computadoras.
+index.html: Contiene la estructura principal de la página web.<br>
+styles.css: Contiene estilos definidos por el usuario que se aplican a la página web.<br>
+responsive.css: Contiene estilos específicos para distintas resoluciones, haciendo la página adaptable a dispositivos móviles, tablets y computadoras.<br>
