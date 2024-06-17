@@ -4,7 +4,7 @@ Se utilizo la imagen de un menú para replicar en HTML y CSS. El diseño final s
 
 https://dribbble.com/shots/18482616-Navbar-UI-Figma-Auto-Layout<br>
 
-<h1>Herramientas Utilizadas</h1>
+<h1>Lenguajes Utilizados</h1>
 HTML5: Para estructurar la página web.<br>
 CSS: Para aplicar estilos y acercar el diseño al original.<br>
 
