@@ -4,14 +4,14 @@ Se utilizo la imagen de un menú para replicar en HTML y CSS. El diseño final s
 
 https://dribbble.com/shots/18482616-Navbar-UI-Figma-Auto-Layout
 
-Herramientas Utilizadas
-HTML: Para estructurar la página web.
-CSS: Para aplicar estilos y acercar el diseño al original.
-Características del Proyecto
-Fidelidad al Diseño: Se ha puesto especial énfasis en replicar fielmente el diseño original de Dribbble, asegurando que todos los elementos visuales e interactivos coincidan con el prototipo.
-Responsive Design: La página web está diseñada para ser responsive, adaptándose a diferentes tamaños de pantalla y dispositivos para garantizar una experiencia óptima en dispositivos móviles y de escritorio.
+<h1>Herramientas Utilizadas</h1>
+HTML: Para estructurar la página web.<br>
+CSS: Para aplicar estilos y acercar el diseño al original.<br>
+<h1>Características del Proyecto</h1>
+Fidelidad al Diseño: Se ha puesto especial énfasis en replicar fielmente el diseño original de Dribbble, asegurando que todos los elementos visuales e interactivos coincidan con el prototipo.<br>
+Responsive Design: La página web está diseñada para ser responsive, adaptándose a diferentes tamaños de pantalla y dispositivos para garantizar una experiencia óptima en dispositivos móviles y de escritorio.<br>
 Interactividad Básica: Se han implementado efectos interactivos utilizando CSS, como transiciones, para mejorar la experiencia del usuario.
-Estructura del Proyecto
+<h1>Estructura del Proyecto</h1>
 index.html: Contiene la estructura principal de la página web.
 normalize.css: Contiene estilos que permiten la correcta visualización de la página en diferentes navegadores.
 styles.css: Contiene estilos definidos por el usuario que se aplican a la página web.
